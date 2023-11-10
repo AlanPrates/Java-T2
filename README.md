@@ -1,4 +1,4 @@
-# Repositório de Front-End T2 para Residência
+# Repositório de Java T2 para Residência
 
 Este repositório é dedicado ao desenvolvimento de projetos de Java para a disciplina T2.
 
