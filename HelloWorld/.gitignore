@@ -1,0 +1,60 @@
+# Arquivos temporários
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+*.tmp.*
+*.swp
+*~
+
+# Arquivos de compilação
+bin/
+target/
+dist/
+
+# Arquivos de dependências (gerados pelo Maven, Gradle, etc.)
+lib/
+*.jar
+
+# Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+.classpath
+.project
+.settings/
+
+# Logs
+logs/
+*.log
+
+# Arquivos de configuração específicos do sistema operacional
+.DS_Store
+Thumbs.db
