@@ -1,0 +1,65 @@
+# Arquivos de compilação
+bin/
+target/
+
+# Arquivos de configuração
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Logs e relatórios
+*.log
+*.pot
+*.out
+
+# Arquivos temporários
+*.tmp
+*.tmp.*
+*.swp
+*~
+
+# Dependências e arquivos JAR
+lib/
+*.jar
+
+# Arquivos gerados pelo Eclipse
+.settings/
+.classpath
+.project
+.metadata/
+
+# Arquivos gerados pelo NetBeans
+nb-configuration.xml
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+.nb-gradle/
+
+# Arquivos gerados pelo IntelliJ IDEA
+out/
+.idea_modules/
+
+# Cache de compilação do Maven
+target/
+ 
+# Cache do Gradle
+.gradle/
+
+# Logs do Maven
+mvn*.log
+
+# Arquivos do VS Code
+.vscode/
+
+# Configurações do Eclipse
+*.launch
+*.classpath
+*.project
+
+# Logs do Gradle
+build/
+gradle/
